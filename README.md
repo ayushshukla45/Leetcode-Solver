@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
