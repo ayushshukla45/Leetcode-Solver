@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
