@@ -44,7 +44,7 @@ public:
                 return false;
             }
 
-             //One string has a character, other doesn't
+            // One string has a character, other doesn't
             if ((i >= 0) != (j >= 0)) {
                 return false;
             }
