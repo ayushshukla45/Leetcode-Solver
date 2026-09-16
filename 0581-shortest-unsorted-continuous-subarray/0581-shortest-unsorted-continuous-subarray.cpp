@@ -13,7 +13,7 @@ public:
                 left = i;
                 break;
             }
-        }
+        }   
 
         // Already sorted
         if (left == -1) {
