@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
