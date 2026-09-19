@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -91,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
