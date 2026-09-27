@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0457-circular-array-loop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
