@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0457-circular-array-loop) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -116,9 +118,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
