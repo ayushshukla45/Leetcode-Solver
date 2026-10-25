@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/0457-circular-array-loop) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
