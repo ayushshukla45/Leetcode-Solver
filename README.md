@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushshukla45/Leetcode-Solver/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
